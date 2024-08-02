@@ -52,12 +52,8 @@ The dataset used in this notebook is sourced from Kaggle and can be found [here]
 
 ## How to Run the Notebook
 
-1. **Prerequisites**: Ensure you have Python and Jupyter Notebook installed. The required libraries can be installed using the `requirements.txt` file provided.
+1. **Prerequisites**: Ensure you have Python and Jupyter Notebook installed.
    
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 2. **Dataset**: Download the dataset from Kaggle and place it in the appropriate directory as expected by the notebook.
 
 3. **Running the Notebook**: Open the notebook in Jupyter and execute the cells sequentially.
