@@ -1,4 +1,4 @@
-Here's a detailed README for the provided Jupyter Notebook related to pneumonia classification:
+
 
 ---
 
